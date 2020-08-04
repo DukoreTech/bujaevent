@@ -493,8 +493,9 @@ a:hover {
 }
 
 .our-team {
-	padding:50px;
-	background:#ddd;
+  padding:50px;
+  margin-left: -70px;
+	/* background:#ddd; */
 }
 
 .our-team h3 {
